@@ -1,0 +1,1 @@
+I created a very beginner html only resume to showcase some of my skills in html while i began to learn more.This Resume will began to updating everyday Continuing updating this and adding styles.# Resume
